@@ -15,7 +15,7 @@ export class testimonials extends Component {
                     <div className="testimonial">
                       <div className="testimonial-image">
                         {" "}
-                        <img src={d.img} alt="" />{" "}
+                        <i className={d.icon}></i>{" "}
                       </div>
                       <div className="testimonial-content">
                         <p>"{d.text}"</p>

@@ -17,10 +17,17 @@ export class Header extends Component {
                     {this.props.data ? this.props.data.paragraph : "Loading"}
                   </p>
                   <a
-                    href="#features"
+                    href="#contact"
                     className="btn btn-custom btn-lg page-scroll"
                   >
-                    Learn More
+                    Contact Us
+                  </a>{" "}
+                  <br /><br />
+                  <a
+                    href="http://www.instagram.com/lightspeedpacing"
+                    className="btn btn-custom btn-lg page-scroll"
+                  >
+                    Follow Us
                   </a>{" "}
                 </div>
               </div>

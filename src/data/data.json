@@ -1,136 +1,150 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "Light Speed Pacing",
+        "paragraph": "A wireless pacing light system for any course that can be setup in as little as five minutes."
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "Our team started in 2014 and offers a simple design maintained by a group of software and electrical engineers with diverse skill sets.",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Constant Feedback for Athletes",
+            "Wireless",
+            "Easy Setup",
+            "Low Cost",
+            "Compact Design"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
         ]
     },
-    "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    "Services": [
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Artficial Intelligence",
+            "text": "By mid 2021, our software will be constantly learning your preferences, recognizing common mistakes, and offering solutions in real time."
         },
         {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-lock",
+            "name": "Blockchain",
+            "text": "Future support for token-based communication to allow system owners to earn revenue by operating their systems."
         },
         {
             "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Cloud Compatibility",
+            "text": "Race and workout data can be stored securely and analyzed with our cloud-based data platform."
         },
         {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-wrench",
+            "name": "Professional Setup",
+            "text": "While our system can be setup by anyone, we supply dedicated technicians to manage all aspects of the system and support the users."
         },
         {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-bolt",
+            "name": "Race Operation",
+            "text": "We provide technicans that manage times and paces during races and workouts to reduce the burden on coaches and race directors."
         },
         {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-clock-o",
+            "name": "Mid-Race Adjustment",
+            "text": "Our technicians will adjust paces mid-race to the specification of the coaches and race directors without skipping a beat."
         }
 
 
     ],
-    "Testimonials": [{
-            "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
+    "Testimonials": [
         {
             "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "icon": "fa fa-user",
+            "text": "That was so cool to have that pushing me. I don't think I could have run that well without it.",
+            "name": "Phil V."
         },
         {
             "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "icon": "fa fa-user",
+            "text": "It helped me to set a PR in the 800, but having David running right behind me didn't hurt either.",
+            "name": "Jack S."
         },
         {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "img": "img/testimonials/04.jpg",
+            "icon": "fa fa-user",
+            "text": "I would've fallen off the pace without knowing if I didn't have the light, so I instead ended up PR-ing!",
+            "name": "Sarah R."
         }
     ],
-    "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
+    "Team": [
+        {
+            "img": "img/team/ab1.jpg",
+            "name": "Aaron Bell",
+            "job": "Systems Architect"
         },
         {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
-        }, {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
+            "img": "img/team/dh1.jpg",
+            "name": "David Hudman",
+            "job": "Software Engineer"
         },
         {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
+            "img": "img/team/ph1.jpg",
+            "name": "Philip Harvey",
+            "job": "Lead Product Analyst"
+        },
+        {
+            "img": "img/team/kc1.jpg",
+            "name": "Kristen Carpenter",
+            "job": "Marketing Analyst"
+        }
+    ],
+    "Team2": [
+        {
+            "img": "img/team/img2.jpg",
+            "name": "Becca Wong",
+            "job": "Cloud Architect"
+        },
+        {
+            "img": "img/team/img6.jpg",
+            "name": "James Roebuck",
+            "job": "Machine Learning Architect"
+        },
+        {
+            "img": "img/team/img9.jpg",
+            "name": "Oleg Silver",
+            "job": "Data Analyst"
+        },
+        {
+            "img": "img/team/img12.jpg",
+            "name": "Robert Wilson",
+            "job": "Quality Assurance"
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
+        "address": "Jacksonville, FL",
         "phone": "+1 123 456 1234",
-        "email": "info@company.com",
+        "email": "info@lightspeedpacing.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        "instagram": "http://www.instagram.com/lightspeedpacing",
+        "youtube": "youtube.com",
+        "companyName": "Light Speed Pacing"
     },
-    "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    "Features": [
+        {
+            "icon": "fa fa-clock-o",
+            "title": "Precision Pacing",
+            "text": "Accurate pacing for every lap, down to the hundredth of a second."
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-mobile",
+            "title": "Mobile Control",
+            "text": "The paces are controlled through a mobile website that can be accessed without needing to install any apps."
         },
         {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-wifi",
+            "title": "Wireless Connections",
+            "text": "This system supports wifi connections for control from the user's mobile phone and is entirely wireless."
         },
         {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-plug",
+            "title": "Battery Powered",
+            "text": "The batteries include intelligent power management, last all day, and are fully rechargeable."
         }
     ]
 }

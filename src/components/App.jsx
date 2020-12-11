@@ -36,12 +36,12 @@ export class App extends Component {
   render() {
     return (
       <div>
-        <Navigation />
+        <Navigation data={this.state.resumeData.Header}/>
         <Header data={this.state.resumeData.Header}/>
         <Features data={this.state.resumeData.Features}/>
         <About  data={this.state.resumeData.About}/>
         <Services  data={this.state.resumeData.Services}/>
-        <Gallery />
+        {/* <Gallery /> */}
         <Testimonials  data={this.state.resumeData.Testimonials}/>
         <Team  data={this.state.resumeData.Team}/>
         <Contact  data={this.state.resumeData.Contact}/>
