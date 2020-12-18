@@ -20,7 +20,7 @@
     "Services": [
         {
             "icon": "fa fa-pie-chart",
-            "name": "Artficial Intelligence",
+            "name": "Artificial Intelligence",
             "text": "By mid 2021, our software will be constantly learning your preferences, recognizing common mistakes, and offering solutions in real time."
         },
         {
@@ -142,7 +142,7 @@
             "text": "This system supports wifi connections for control from the user's mobile phone and is entirely wireless."
         },
         {
-            "icon": "fa fa-plug",
+            "icon": "fa fa-bolt",
             "title": "Battery Powered",
             "text": "The batteries include intelligent power management, last all day, and are fully rechargeable."
         }
