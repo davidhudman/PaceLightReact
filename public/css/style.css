@@ -181,7 +181,6 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	outline: none;
 	outline-offset: none;
 }
-/* Header Section */
 .intro {
 	display: table;
 	width: 100%;
@@ -218,10 +217,23 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	margin-bottom: 60px;
 }
 header .intro-text {
-	padding-top: 150px;
+	padding-top: 50px;
 	padding-bottom: 200px;
 	text-align: center;
 }
+/* Style the video: cover the entire window */
+#myVideo {
+	display: inline-block;
+	width: 80%;
+	max-width: 360px;
+	padding-top: 100px;
+}
+.video-container {
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+}
+
 /* Features Section */
 #features {
 	padding: 100px 0;
