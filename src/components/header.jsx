@@ -10,7 +10,7 @@ export class Header extends Component {
               <div className="row">
                 <div className="video-container">
                   <span>
-                    <a href="https://www.youtube.com/watch?v=wDAe4kw0W-E&feature=youtu.be&ab_channel=DavidHudman"><img src="vid/lspvid02.png" id="myVideo" /></a>
+                    <a href="https://www.youtube.com/watch?v=wDAe4kw0W-E&feature=youtu.be&ab_channel=DavidHudman"><img src="vid/lspvid02.png" id="myVideo" alt="Video Thumbnail" /></a>
                     <br />
                     <a href="https://www.youtube.com/watch?v=wDAe4kw0W-E&feature=youtu.be&ab_channel=DavidHudman">Watch on Youtube</a>
                   </span>

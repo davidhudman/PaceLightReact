@@ -3,9 +3,6 @@ import React, { Component } from "react";
 export class Gallery extends Component {
   render() {
     return (
-      <div></div>
-    );
-    return (
       <div id="portfolio" className="text-center">
         <div className="container">
           <div className="section-title">
