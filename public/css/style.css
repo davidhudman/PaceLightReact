@@ -221,7 +221,7 @@ header .intro-text {
 	padding-bottom: 200px;
 	text-align: center;
 }
-/* Style the video: cover the entire window */
+/* Style the video: cover the entire window. */
 #myVideo {
 	display: inline-block;
 	width: 80%;
