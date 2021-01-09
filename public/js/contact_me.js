@@ -17,7 +17,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "https://r28g64e5ii.execute-api.us-east-1.amazonaws.com/prd/emailContactFormPaceLight",
+                url: "https://hxbcj0nb8i.execute-api.us-east-1.amazonaws.com/prd/emailContactFormPaceLight",
                 type: "POST",
                 data: JSON.stringify({
                     name: name,
