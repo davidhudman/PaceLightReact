@@ -2,7 +2,7 @@
     "Header": {
 
         "title": "Light Speed Pacing",
-        "paragraph": "A wireless pacing light system for any course that can be setup in as little as five minutes."
+        "paragraph": "A wireless pacing light system for any course that can be setup in as little as fifteen minutes."
 
     },
     "About": {
@@ -19,34 +19,34 @@
     },
     "Services": [
         {
-            "icon": "fa fa-pie-chart",
-            "name": "Artificial Intelligence",
-            "text": "By mid 2021, our software will be constantly learning your preferences, recognizing common mistakes, and offering solutions in real time."
-        },
-        {
-            "icon": "fa fa-lock",
-            "name": "Blockchain",
-            "text": "Future support for token-based communication to allow system owners to earn revenue by operating their systems."
-        },
-        {
-            "icon": "fa fa-cloud-download",
-            "name": "Cloud Compatibility",
-            "text": "Race and workout data can be stored securely and analyzed with our cloud-based data platform."
-        },
-        {
             "icon": "fa fa-wrench",
             "name": "Professional Setup",
-            "text": "While our system can be setup by anyone, we supply dedicated technicians to manage all aspects of the system and support the users."
+            "text": "Our team will manage all aspects of the system and support the users."
         },
         {
             "icon": "fa fa-bolt",
-            "name": "Race Operation",
-            "text": "We provide technicans that manage times and paces during races and workouts to reduce the burden on coaches and race directors."
+            "name": "Multiple Pacers",
+            "text": "The system supports multiple pace lights running at the same time."
         },
         {
             "icon": "fa fa-clock-o",
             "name": "Mid-Race Adjustment",
-            "text": "Our technicians will adjust paces mid-race to the specification of the coaches and race directors without skipping a beat."
+            "text": "Coaches and race directors can adjust pace during the race without skipping a beat."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Artificial Intelligence",
+            "text": "Future support for AI that learns preferences and recognizes common mistakes."
+        },
+        {
+            "icon": "fa fa-lock",
+            "name": "Blockchain",
+            "text": "Future support to allow system owners to earn revenue by operating their systems."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Cloud Compatibility",
+            "text": "Race times, workout data, and software updates can be stored in the cloud and downloaded over the air."
         }
 
 
@@ -55,20 +55,20 @@
         {
             "img": "img/testimonials/03.jpg",
             "icon": "fa fa-user",
-            "text": "That was so cool to have that pushing me. I don't think I could have run that well without it.",
-            "name": "Phil V."
+            "text": "If I'm pacing a race, this is something I want to have.",
+            "name": "Cory McGee, pro runner"
         },
         {
             "img": "img/testimonials/05.jpg",
             "icon": "fa fa-user",
-            "text": "It helped me set a PR in the 800, but having David running right behind me didn't hurt either.",
-            "name": "Jack S."
+            "text": "Really cool...you should take Ray's comment as a compliment.",
+            "name": "Kyle Merber, former pro runner"
         },
         {
             "img": "img/testimonials/04.jpg",
             "icon": "fa fa-user",
-            "text": "I would've fallen off the pace without knowing if I didn't have the light, so I instead ended up PR-ing!",
-            "name": "Sarah R."
+            "text": "I'm not a fan of it.",
+            "name": "Ray Flynn, world-renowned athletics agent"
         }
     ],
     "Team": [

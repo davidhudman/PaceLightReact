@@ -82,32 +82,6 @@ export class Contact extends Component {
                 </p>
               </div> */}
             </div>
-            <div className="col-md-12">
-              <div className="row">
-                <div className="social">
-                  <h3 className="text-center">Follow us for updates!</h3>
-                  <ul>
-                    <li>
-                      <a
-                        href={this.props.data ? this.props.data.instagram : "/"}
-                      >
-                        <i className="fa fa-instagram"></i>
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div id="footer">
-          <div className="container text-center">
-            <p>
-              &copy; 2020 {this.props.data ? this.props.data.companyName : "LSP"}. Design by{" "}
-              <a href="http://www.github.com/davidhudman" rel="nofollow">
-                Hudman
-              </a>
-            </p>
           </div>
         </div>
       </div>
