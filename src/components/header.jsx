@@ -28,7 +28,7 @@ export class Header extends Component {
                       <h2>Used during multiple records:</h2>
                       <a href="https://youtu.be/oRto43Og0jg?t=10355" className="href">German Women's 10k</a>
                       <br />
-                      <a href="#" className="href">US HS Girls 5k</a>
+                      <a href="http://www.lightspeedpacing.com" className="href">US HS Girls 5k</a>
                       <br /><br />
                     </span>
                   </div>
