@@ -15,17 +15,16 @@ export class Header extends Component {
                   </p>
                   <div className="video-container">
                     <span>
-                      {/* <a href="https://www.youtube.com/watch?v=wDAe4kw0W-E&feature=youtu.be&ab_channel=DavidHudman"><img src="vid/lspvid02.png" id="myVideo" alt="Video Thumbnail" /></a>
-                      <br />
-                      <a href="https://www.youtube.com/watch?v=wDAe4kw0W-E&feature=youtu.be&ab_channel=DavidHudman">Watch on Youtube</a> */}
                       <h2>Watch Race Footage:</h2>
-                      <a href="https://youtu.be/tSsfWStHXss?t=5665" className="href">2021 Austin Texas Qualifier</a>
+                      <a href="https://youtu.be/228nXgaZR_4?t=1927" className="href">Emmanuel Bor #2 US all-time indoor 5k</a>
                       <br />
-                      <a href="https://youtu.be/Gd6hx1z8Jek?t=5002">2021 NCAA D2 Nat'l Record</a>
+                      <a href="https://youtu.be/tSsfWStHXss?t=5665" className="href">2021 Austin Texas Qualifier</a>
                       <br />
                       <a href="https://www.youtube.com/watch?v=wDAe4kw0W-E&feature=youtu.be&ab_channel=DavidHudman">2020 Five and Dime</a>
                       <br /><br />
                       <h2>Used during multiple records:</h2>
+                      <a href="https://youtu.be/Gd6hx1z8Jek?t=5002">2021 NCAA Men's D2 Nat'l Record</a>
+                      <br />
                       <a href="https://youtu.be/oRto43Og0jg?t=10355" className="href">German Women's 10k</a>
                       <br />
                       <a href="http://www.lightspeedpacing.com" className="href">US HS Girls 5k</a>
