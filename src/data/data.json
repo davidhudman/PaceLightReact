@@ -1,150 +1,145 @@
 {
-    "Header": {
-
-        "title": "Light Speed Pacing",
-        "paragraph": "A wireless pacing light system for any course that can be setup in as little as fifteen minutes."
-
-    },
-    "About": {
-        "paragraph": "Our team started in 2014 and offers a simple design maintained by a group of software and electrical engineers with diverse skill sets.",
-        "Why": [
-            "Constant Feedback for Athletes",
-            "Wireless",
-            "Easy Setup",
-            "Low Cost",
-            "Compact Design"
-        ],
-        "Why2": [
-        ]
-    },
-    "Services": [
-        {
-            "icon": "fa fa-wrench",
-            "name": "Professional Setup",
-            "text": "Our team will manage all aspects of the system and support the users."
-        },
-        {
-            "icon": "fa fa-bolt",
-            "name": "Multiple Pacers",
-            "text": "The system supports multiple pace lights running at the same time."
-        },
-        {
-            "icon": "fa fa-clock-o",
-            "name": "Mid-Race Adjustment",
-            "text": "Coaches and race directors can adjust pace during the race without skipping a beat."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Artificial Intelligence",
-            "text": "Future support for AI that learns preferences and recognizes common mistakes."
-        },
-        {
-            "icon": "fa fa-lock",
-            "name": "Blockchain",
-            "text": "Future support to allow system owners to earn revenue by operating their systems."
-        },
-        {
-            "icon": "fa fa-cloud-download",
-            "name": "Cloud Compatibility",
-            "text": "Race times, workout data, and software updates can be stored in the cloud and downloaded over the air."
-        }
-
-
-    ],
-    "Testimonials": [
-        {
-            "img": "img/testimonials/03.jpg",
-            "icon": "fa fa-user",
-            "text": "If I'm pacing a race, this is something I want to have.",
-            "name": "Cory McGee, pro runner"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "icon": "fa fa-user",
-            "text": "Really cool...you should take Ray's comment as a compliment.",
-            "name": "Kyle Merber, former pro runner"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "icon": "fa fa-user",
-            "text": "I'm not a fan of it.",
-            "name": "Ray Flynn, world-renowned athletics agent"
-        }
-    ],
-    "Team": [
-        {
-            "img": "img/team/ab1.jpg",
-            "name": "Aaron Bell",
-            "job": "Systems Architect"
-        },
-        {
-            "img": "img/team/dh1.jpg",
-            "name": "David Hudman",
-            "job": "Software Engineer"
-        },
-        {
-            "img": "img/team/ph1.jpg",
-            "name": "Philip Harvey",
-            "job": "Lead Product Analyst"
-        },
-        {
-            "img": "img/team/kc1.jpg",
-            "name": "Kristen Carpenter",
-            "job": "Marketing Analyst"
-        }
-    ],
-    "Team2": [
-        {
-            "img": "img/team/img2.jpg",
-            "name": "Becca Wong",
-            "job": "Cloud Architect"
-        },
-        {
-            "img": "img/team/img6.jpg",
-            "name": "James Roebuck",
-            "job": "Machine Learning Architect"
-        },
-        {
-            "img": "img/team/img9.jpg",
-            "name": "Oleg Silver",
-            "job": "Data Analyst"
-        },
-        {
-            "img": "img/team/img12.jpg",
-            "name": "Robert Wilson",
-            "job": "Quality Assurance"
-        }
-    ],
-    "Contact": {
-        "address": "Jacksonville, FL",
-        "phone": "+1 123 456 1234",
-        "email": "info@lightspeedpacing.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "instagram": "http://www.instagram.com/lightspeedpacing",
-        "youtube": "youtube.com",
-        "companyName": "Light Speed Pacing"
-    },
-    "Features": [
-        {
-            "icon": "fa fa-clock-o",
-            "title": "Precision Pacing",
-            "text": "Accurate pacing for every lap, down to the hundredth of a second."
-        },
-        {
-            "icon": "fa fa-mobile",
-            "title": "Mobile Control",
-            "text": "The paces are controlled through a mobile website that can be accessed without needing to install any apps."
-        },
-        {
-            "icon": "fa fa-wifi",
-            "title": "Wireless Connections",
-            "text": "This system supports wifi connections for control from the user's mobile phone and is entirely wireless."
-        },
-        {
-            "icon": "fa fa-bolt",
-            "title": "Battery Powered",
-            "text": "The batteries include intelligent power management, last all day, and are fully rechargeable."
-        }
-    ]
+	"Header": {
+		"title": "Light Speed Pacing",
+		"paragraph": "A wireless pacing light system for any course that can be setup in as little as fifteen minutes."
+	},
+	"About": {
+		"paragraph": "Our team started in 2014 and offers a simple design maintained by a group of software and electrical engineers with diverse skill sets.",
+		"Why": [
+			"Constant Feedback for Athletes",
+			"Wireless",
+			"Easy Setup",
+			"Low Cost",
+			"Compact Design"
+		],
+		"Why2": []
+	},
+	"Services": [
+		{
+			"icon": "fa fa-wrench",
+			"name": "Professional Setup",
+			"text": "Our team will manage all aspects of the system and support the users."
+		},
+		{
+			"icon": "fa fa-bolt",
+			"name": "Multiple Pacers",
+			"text": "The system supports multiple pace lights running at the same time."
+		},
+		{
+			"icon": "fa fa-clock-o",
+			"name": "Mid-Race Adjustment",
+			"text": "Coaches and race directors can adjust pace during the race without skipping a beat."
+		},
+		{
+			"icon": "fa fa-pie-chart",
+			"name": "Artificial Intelligence",
+			"text": "Future support for AI that learns preferences and recognizes common mistakes."
+		},
+		{
+			"icon": "fa fa-lock",
+			"name": "Blockchain",
+			"text": "Future support to allow system owners to earn revenue by operating their systems."
+		},
+		{
+			"icon": "fa fa-cloud-download",
+			"name": "Cloud Compatibility",
+			"text": "Race times, workout data, and software updates can be stored in the cloud and downloaded over the air."
+		}
+	],
+	"Testimonials": [
+		{
+			"img": "img/testimonials/03.jpg",
+			"icon": "fa fa-user",
+			"text": "If I'm pacing a race, this is something I want to have.",
+			"name": "Cory McGee, pro runner"
+		},
+		{
+			"img": "img/testimonials/05.jpg",
+			"icon": "fa fa-user",
+			"text": "Really cool...you should take Ray's comment as a compliment.",
+			"name": "Kyle Merber, former pro runner"
+		},
+		{
+			"img": "img/testimonials/04.jpg",
+			"icon": "fa fa-user",
+			"text": "I'm not a fan of it.",
+			"name": "Ray Flynn, world-renowned athletics agent"
+		}
+	],
+	"Team": [
+		{
+			"img": "img/team/ab1.jpg",
+			"name": "Aaron Bell",
+			"job": "Systems Architect"
+		},
+		{
+			"img": "img/team/dh1.jpg",
+			"name": "David Hudman",
+			"job": "Software Engineer"
+		},
+		{
+			"img": "img/team/ph1.jpg",
+			"name": "Philip Harvey",
+			"job": "Lead Product Analyst"
+		},
+		{
+			"img": "img/team/kc1.jpg",
+			"name": "Kristen Carpenter",
+			"job": "Marketing Analyst"
+		}
+	],
+	"Team2": [
+		{
+			"img": "img/team/img2.jpg",
+			"name": "Becca Wong",
+			"job": "Cloud Architect"
+		},
+		{
+			"img": "img/team/img6.jpg",
+			"name": "James Roebuck",
+			"job": "Machine Learning Architect"
+		},
+		{
+			"img": "img/team/img9.jpg",
+			"name": "Oleg Silver",
+			"job": "Data Analyst"
+		},
+		{
+			"img": "img/team/img12.jpg",
+			"name": "Robert Wilson",
+			"job": "Quality Assurance"
+		}
+	],
+	"Contact": {
+		"address": "Jacksonville, FL",
+		"phone": "+1 123 456 1234",
+		"email": "info@lightspeedpacing.com",
+		"facebook": "fb.com",
+		"twitter": "twitter.com",
+		"instagram": "http://www.instagram.com/lightspeedpacing",
+		"youtube": "youtube.com",
+		"companyName": "Light Speed Pacing"
+	},
+	"Features": [
+		{
+			"icon": "fa fa-clock-o",
+			"title": "Precision Pacing",
+			"text": "Accurate pacing for every lap, down to the hundredth of a second."
+		},
+		{
+			"icon": "fa fa-mobile",
+			"title": "Mobile Control",
+			"text": "The paces are controlled through a mobile website that can be accessed without needing to install any apps."
+		},
+		{
+			"icon": "fa fa-wifi",
+			"title": "Wireless Connections",
+			"text": "This system supports wifi connections for control from the user's mobile phone and is entirely wireless."
+		},
+		{
+			"icon": "fa fa-bolt",
+			"title": "Battery Powered",
+			"text": "The batteries include intelligent power management, last all day, and are fully rechargeable."
+		}
+	]
 }
