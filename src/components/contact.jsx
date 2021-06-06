@@ -11,7 +11,7 @@ export class Contact extends Component {
 								<div className="section-title">
 									<h2>Get In Touch</h2>
 									<p>
-										Email us: <a href="mailto:lightspeedpacing@gmail.com">lightspeedpacing@gmail.com</a>
+										Email us: lightspeedpacing@gmail.com
 									</p>
 									<p>Follow us on instagram and shoot us a message.</p>
 									{this.props.data ? "" : ""}
