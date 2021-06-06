@@ -14,6 +14,7 @@ export class Contact extends Component {
 										Email us: <a href="mailto:lightspeedpacing@gmail.com">lightspeedpacing@gmail.com</a>
 									</p>
 									<p>Follow us on instagram and shoot us a message.</p>
+									{this.props.data ? "" : ""}
 								</div>
 							</div>
 						</div>
