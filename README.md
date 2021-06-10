@@ -1,4 +1,4 @@
-[![Deployment](https://github.com/davidhudman/PaceLightReact/actions/workflows/deploy.yml/badge.svg)](https://github.com/davidhudman/PaceLightReact/actions/workflows/deploy.yml) [![Lint](https://github.com/davidhudman/PaceLightReact/actions/workflows/lint.yml/badge.svg)](https://github.com/davidhudman/PaceLightReact/actions/workflows/lint.yml)
+[![Deployment](https://github.com/davidhudman/PaceLightReact/actions/workflows/deploy.yml/badge.svg)](https://github.com/davidhudman/PaceLightReact/actions/workflows/deploy.yml) [![Lint](https://github.com/davidhudman/PaceLightReact/actions/workflows/lint.yml/badge.svg)](https://github.com/davidhudman/PaceLightReact/actions/workflows/lint.yml) [![license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/cypress-io/cypress/blob/master/LICENSE) [![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
 
 # Light Speed Pacing React App
 

@@ -10,11 +10,8 @@ export class Contact extends Component {
 							<div className="row">
 								<div className="section-title">
 									<h2>Get In Touch</h2>
-									<p>
-										Email us: lightspeedpacing@gmail.com
-									</p>
+									<p>Email us: {this.props.data ? this.props.data.email : ""}</p>
 									<p>Follow us on instagram and shoot us a message.</p>
-									{this.props.data ? "" : ""}
 								</div>
 							</div>
 						</div>
